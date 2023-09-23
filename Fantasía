@@ -1,5 +1,18 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/la-belle-epoque-2-1670503447.jpg"group-title="", la bella epoque
+https://server39.mxcdnab.online/newhls/22c28d6166305ae8be92817e92b94374/EP.0.1.v0.1675944488.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/malvada-2-1678585932.jpg"group-title="", malvada
+https://server33.mxcdnab.online/newhls/281be4cfc6cb460b4bd4a1c21cfa7b30/EP.0.2.v0.1678595382.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/prancer-a-christmas-tale-2-1678422003.jpg"group-title="", Prancer: A Christmas Tale
+https://server06.mxcdnab.online/newhls/61f560a5c750bece134136e588675a05/EP.0.1.v0.1678440378.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/teen-wolf-the-movie-2-1675090804.jpg"group-title="", Teen Wolf: The Movie
+https://server38.mxcdnab.online/newhls/2d96d9ecf63d5843d0c4d37f14a1f430/EP.0.2.v0.1675935345.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/2050-2-1675441805.jpg"group-title="", robot de companía
+https://server08.mxcdnab.online/newhls/4b3b55ff5c3b13794570c66c4e77c7fc/EP.0.1.v0.1675924842.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/legiones-2-1674616925.jpg"group-title="", legiones
+https://server10.mxcdnab.online/newhls/2475e85bf7f737f582c5366d26d057a2/EP.0.2.v1.1675925856.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/zoeys-extraordinary-christmas-2-1674616802.jpg"group-title="", Zoey's Extraordinary Christmas
+https://server07.mxcdnab.online/newhls/cacdd013ab37bdee03aa8640f43a0ea1/EP.0.2.v0.1675924139.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/avengers-grimm-time-wars-2-1619755683.jpg"group-title="",las vengadoras de grimm: tiempos de guerra
 https://server35.mxcdnab.online/newhls/e36ed675a3af95ecb75c29ffa62b3e05/EP.0.1.v0.1676509184.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/werewolf-castle-2-1682186170.jpg"group-title="", Werewolf Castle (SUB)
